@@ -1,10 +1,10 @@
-# 🌍 Earthquake Data Analysis
+# Earthquake Data Analysis
 
 An interactive Python application for acquiring, filtering, and visualizing global seismic activity from 1965 to 2016. Built using only Python's standard library and matplotlib — no pandas or heavy data science frameworks.
 
 ---
 
-## 📌 What It Does
+## What It Does
 
 - Loads **23,406 earthquake records** and **44,554 world city records** from CSV files
 - Provides an interactive CLI to filter seismic data by tremor type, date range, magnitude, latitude, and longitude
@@ -13,7 +13,7 @@ An interactive Python application for acquiring, filtering, and visualizing glob
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 earthquake-data-analysis/
@@ -26,7 +26,7 @@ earthquake-data-analysis/
 
 ---
 
-## 🔍 Key Functions
+## Key Functions
 
 | Function | Description |
 |----------|-------------|
@@ -42,7 +42,7 @@ earthquake-data-analysis/
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 After filtering, the program generates 3 plots:
 
@@ -57,7 +57,7 @@ Scatter plot showing how average earthquake magnitude changed year over year.
 
 ---
 
-## 🖥️ Sample CLI Interaction
+## Sample CLI Interaction
 
 ```
 *** Earthquake Data Analysis ***
@@ -90,7 +90,7 @@ Selected 175 records.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -102,7 +102,7 @@ Selected 175 records.
 
 ---
 
-## ⚙️ Installation & Usage
+## Installation & Usage
 
 ```bash
 # Clone the repository
@@ -120,7 +120,7 @@ python earthquake_analysis.py
 
 ---
 
-## 📂 Data
+## Data
 
 | File | Records | Columns |
 |------|---------|---------|
